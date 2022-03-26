@@ -1,3 +1,6 @@
+// Program that inputs test score of a student
+// and displays his grade according to the defined criteria.
+
 import 'dart:io';
 
 void main(List<String> args) {
